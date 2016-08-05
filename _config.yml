@@ -1,0 +1,28 @@
+name: B-ondXperience
+favicon: null
+layout_spectrum: 0.22243504505604506
+typography_spectrum: 0.6114051844924688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6828621178865433
+  lightness: 0.15795078850351274
+  saturation: 0.9132395721971989
+  rhythmicContrast: 0.7340616527944803
+purpose: []
