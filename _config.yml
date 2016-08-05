@@ -1,7 +1,7 @@
 name: B-ondXperience
 favicon: null
-layout_spectrum: 0.22243504505604506
-typography_spectrum: 0.6114051844924688
+layout_spectrum: 0.50299
+typography_spectrum: 0.34531
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.6828621178865433
+  brandStrength: 0.5
   lightness: 0.15795078850351274
-  saturation: 0.9132395721971989
+  saturation: 1
   rhythmicContrast: 0.7340616527944803
 purpose: []
